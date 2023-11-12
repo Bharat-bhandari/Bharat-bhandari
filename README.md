@@ -1,7 +1,6 @@
 # Hello World!
 ## 📝 About Me
 👋 I am Bharat Bhandari, a `MERN-Stack` Developer from India.  
-🎓 Graduated from TCET-Mumbai in Mechanical Engineering (2023 Passout).
 
 
 ## 🛠 Tech Stack
